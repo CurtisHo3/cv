@@ -1,0 +1,28 @@
+body {
+  background-color: #C6EBC9;
+}
+
+hr {
+  border-color: #70AF85;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 12px;
+  width: 6%;
+}
+
+
+h1 {
+  color: #AA8976;
+}
+
+h3 {
+  color: #AA8976;
+}
+
+.Curtis {
+  width: 200px;
+}
+
+.circular {
+  border-radius: 100%;
+}
